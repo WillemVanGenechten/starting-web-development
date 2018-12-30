@@ -1,0 +1,68 @@
+*{
+margin: 0;
+padding: 0;
+}
+/*ont-family: 'Montserrat', sans-serif;
+font-family: 'Open Sans', sans-serif;*/
+
+body {
+    background-color:gray;
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 1.6em;   
+    color: #555;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+.clr{
+    clear: both;
+}
+.button {
+    text-decoration: none; 
+    color: white;
+    background-color: lightcoral;
+    padding: 10px 15px; 
+    margin-top: 30px; 
+}
+.button:hover {
+    background-color: lightgray;
+}
+.container {
+    width: 60%;
+    margin: auto;
+    padding: auto;
+}
+.introduction {
+    background-color: white;
+    box-shadow: 2px 2px;
+    padding: 30px;
+    margin: 10px;
+    box-shadow: 2px 
+}
+.introduction h1{
+    color: lightcoral;
+    margin-top: 15px;
+}
+.introduction img{
+    border-radius: 40%;
+}
+.social{
+    background-color: white;
+    margin: 20px 10px; 
+    padding: 80px; 
+    box-shadow: 2px 2px;
+}
+.sociallink{
+    float:left; 
+    width:33.3%; 
+    box-sizing: border-box;
+}
+.sociallink i{
+    color: lightgray;
+    font-size: 40px;
+}
+.movies{
+    background-color: white;
+    box-shadow: 2px 2px;
+    margin: 20px 10px;
+}
