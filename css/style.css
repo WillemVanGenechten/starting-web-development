@@ -66,3 +66,27 @@ body {
     box-shadow: 2px 2px;
     margin: 20px 10px;
 }
+.movies h1 {
+    font-size: 40px;
+    padding: 30px;
+    margin: 30px;
+}
+.image img{
+    width: 100px;
+    height: 150px;
+}
+article{
+    display:flex;
+    flex-direction: row;
+}
+.image{
+    width: 30%;
+    margin: 10px;
+}
+.block{
+    width: 70%;
+    margin: 10px;
+}
+.block h2{
+    margin-bottom: 20px;
+}
